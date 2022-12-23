@@ -1,0 +1,3 @@
+/home/nurlando/event_based_tactile/src/tracking/metavision_hal_viewer/build/CMakeFiles/rebuild_cache.dir
+/home/nurlando/event_based_tactile/src/tracking/metavision_hal_viewer/build/CMakeFiles/edit_cache.dir
+/home/nurlando/event_based_tactile/src/tracking/metavision_hal_viewer/build/CMakeFiles/metavision_hal_viewer.dir

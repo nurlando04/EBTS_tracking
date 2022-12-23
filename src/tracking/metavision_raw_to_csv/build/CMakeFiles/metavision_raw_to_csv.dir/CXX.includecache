@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nurlando/event_based_tactile/src/tracking/metavision_raw_to_csv/metavision_raw_to_csv.cpp
+exception
+-
+iostream
+-
+fstream
+-
+functional
+-
+chrono
+-
+boost/program_options.hpp
+-
+metavision/sdk/base/utils/log.h
+-
+metavision/sdk/core/pipeline/pipeline.h
+-
+metavision/sdk/core/pipeline/stage.h
+-
+metavision/sdk/driver/camera_exception.h
+-
+metavision/sdk/driver/pipeline/camera_stage.h
+-
+
