@@ -1,8 +1,0 @@
-prefix=/home/nurlando/event_based_tactile/install
-
-Name: prophesee_ros_driver
-Description: Description of prophesee_ros_driver
-Version: 0.0.2
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lprophesee_ros_driver
-Requires: roscpp sensor_msgs image_transport prophesee_event_msgs cv_bridge

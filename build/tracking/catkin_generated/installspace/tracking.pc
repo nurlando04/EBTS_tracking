@@ -1,8 +1,0 @@
-prefix=/home/nurlando/event_based_tactile/install
-
-Name: tracking
-Description: Description of tracking
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -ltracking
-Requires: roscpp std_msgs

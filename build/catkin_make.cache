@@ -1,2 +1,0 @@
-my_message:prophesee_ros_wrapper/prophesee_event_msgs:prophesee_ros_wrapper/prophesee_ros_driver:prophesee_ros_wrapper/prophesee_ros_wrapper:tracking
--DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/nurlando/event_based_tactile/devel -DCMAKE_INSTALL_PREFIX=/home/nurlando/event_based_tactile/install -G Unix Makefiles
