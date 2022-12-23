@@ -7,5 +7,6 @@
         "/home/nurlando/event_based_tactile/devel/lib/python2.7/dist-packages",
         "/opt/ros/melodic/lib/python2.7/dist-packages"
     ],
-    "ros.distro": "melodic"
+    "ros.distro": "melodic",
+    "cmake.sourceDirectory": "${workspaceFolder}/src/tracking"
 }
